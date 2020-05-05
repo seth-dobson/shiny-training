@@ -1,2 +1,2 @@
-# shiny_training
+# shiny-training
 Shiny practice problems and exercises
